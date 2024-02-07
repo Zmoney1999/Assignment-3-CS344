@@ -1,0 +1,1 @@
+To compile code. Type gcc --std=gnu99 -pthread -o line_processor line.c and to run program ./a.out. to use input redirection type ./line_proccessor < input1.txt for the first txt file or replace input1.txt with any txt file that you want to redirect to stdin
